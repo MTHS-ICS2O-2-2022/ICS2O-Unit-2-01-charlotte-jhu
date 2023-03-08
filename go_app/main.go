@@ -11,5 +11,5 @@ func main() {
 	// This function displays, "Hello, World!"
 	fmt.Println("Hello, World!")
 
-  fmt.Println("\nDone.")
+	fmt.Println("\nDone.")
 }
